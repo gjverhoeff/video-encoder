@@ -8,9 +8,8 @@ Make sure that Python is installed on the machine. This build is tested on Pytho
 
 ## Important Notes
 
-1. Make sure that there are no spaces in the filename as then the encoder will not convert it.
-2. Don't run the script on a critical broadcast computer while live as it will take up most of its CPU power when converting.
-3. At this point the video needs to have an audiotrack. If there is no audiotrack the converter will not work. 
+1. Don't run the script on a critical broadcast computer while live as it will take up most of its CPU power when converting.
+2. At this point the video needs to have an audiotrack. If there is no audiotrack the converter will not work. 
 
 ## Usage
 
