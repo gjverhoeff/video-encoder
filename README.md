@@ -16,7 +16,7 @@ Make sure that Python is installed on the machine. This build is tested on Pytho
 1. Execute the `Server.py` script.
 2. Add Files to the Media folder. 
 3. Wait for the file to be encoded.
-4. grap the new file from the `Media Destination Folder`.
+4. grab the new file from the `Media Destination Folder`.
 5. Press 'q' to stop the script
 
 Click the image for a Usage Video of the script. 
